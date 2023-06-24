@@ -1,11 +1,11 @@
 # Loan_approval_prediction
-
+<h3>Following my time at Diginique Techlab as an Data Science Summer Intern, this Loan Approval Prediction System was the part of my Project-based internship. </h3>
 <h1 align="center">Hi 👋, I'm Hemang Gawali</h1>
 <h3 align="center">A passionate Data science enthusiast from India</h3>
 
 - 💻 I'm currently pursuing **Bachelor's in Engineering in Information Technology** at **Institute of Engineering & Technology, DAVV, Indore**
 
-- 🌱 I’m currently learning **Python, Machine Learning, Statistics**
+- 🌱 I’m currently **Data Science Summer Intern at Diginique Techlab**
 
 - 📫 How to reach me **hemanggawali21@gmail.com**
 
